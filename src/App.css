@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.simpletest{
+  color: green;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  background-color: #20232a;
+}
+ul,li{
+  padding: 12px 12px 12px 12px;
+  color: white;
+  font-weight: bold;
+
+}
